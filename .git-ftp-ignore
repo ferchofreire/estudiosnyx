@@ -1,0 +1,7 @@
+.git-ftp-ignore
+.gitignore
+.git
+.github
+README.md
+*.zip
+*.rar
