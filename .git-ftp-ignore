@@ -2,6 +2,7 @@
 .gitignore
 .git
 .github
+.vscode
 README.md
 *.zip
 *.rar
